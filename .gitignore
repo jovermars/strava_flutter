@@ -13,3 +13,9 @@ build/
 ios/.generated/
 ios/Flutter/Generated.xcconfig
 ios/Runner/GeneratedPluginRegistrant.*
+.flutter-plugins
+.flutter-plugins-dependencies
+package-strava-flutter.code-workspace
+pubspec.lock
+example/.flutter-plugins-dependencies
+example/ios/Flutter/flutter_export_environment.sh
